@@ -19,7 +19,7 @@ This is a case directory, not an independent benchmark. Model attribution, timin
 
 ## Featured: What Do You Love? JavaScript Animation
 
-[![What Do You Love? JavaScript Animation — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2102437792425070592/img/H7fyRYmlzFr2osoV.jpg>)](<https://x.com/kevin_t_ngo/status/2102437977435893771>)
+[![What Do You Love? JavaScript Animation — Preview from the creator](<https://pbs.twimg.com/amplify_video_thumb/2102437792425070592/img/H7fyRYmlzFr2osoV.jpg>)](<https://x.com/kevin_t_ngo/status/2102437977435893771>)
 
 A hand-drawn story in which every frame, plus the music, was generated in JavaScript.
 
@@ -27,7 +27,7 @@ Creator: [Kevin Ngo](<https://x.com/kevin_t_ngo>)
 
 [Watch the original post](<https://x.com/kevin_t_ngo/status/2102437977435893771>) · [View case details](<https://magiccreator.ai/claude-opus-5-5-demos#javascript-town-animation>)
 
-The preview belongs to its creator and links to the original post; this repository does not host the video.
+The preview belongs to its creator and links to the original source; this repository does not host the media or interactive project.
 
 ## Contents
 
@@ -47,6 +47,8 @@ Browser games, Roblox builds and interactive experiments, with live and source l
 
 ### Pelican Bicycle Adventure
 
+[![Pelican Bicycle Adventure — Preview from the creator](<https://cdn.magiccreator.ai/magiccreator/public/landing/claude-opus-5-5-demos/pelican-bike.webp>)](<https://github.com/riba2534/claude-opus-5-5-demo/tree/main/pelican-bike>)
+
 A playable coastal cycling game with cloth physics, day-night changes, fish collecting, adaptive quality and touch controls.
 
 **Creator:** riba2534 · **Tools / format:** Three.js, Browser game, Procedural audio
@@ -57,7 +59,7 @@ riba2534 reports that Opus 5.5 built the game from one sentence in a single Clau
 
 ### Roblox Anime Smash Game
 
-[![Roblox Anime Smash Game — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2102487713282686976/img/zdQTFvcXlXdqN7qP.jpg>)](<https://x.com/WoahWurdz/status/2102487879809126834>)
+[![Roblox Anime Smash Game — Preview from the creator](<https://pbs.twimg.com/amplify_video_thumb/2102487713282686976/img/zdQTFvcXlXdqN7qP.jpg>)](<https://x.com/WoahWurdz/status/2102487879809126834>)
 
 A Roblox arena-fighting prototype with anime-inspired characters, attacks and a detailed combat environment.
 
@@ -69,7 +71,7 @@ The creator says Claude Opus 5.5 produced the game in one pass using Roblox tool
 
 ### Catwalk
 
-[![Catwalk — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2102775202614788096/img/UATSqT8q3GPW5tH-.jpg>)](<https://x.com/blitast_studio/status/2102775461701091531>)
+[![Catwalk — Preview from the creator](<https://pbs.twimg.com/amplify_video_thumb/2102775202614788096/img/UATSqT8q3GPW5tH-.jpg>)](<https://x.com/blitast_studio/status/2102775461701091531>)
 
 A playable browser game published on itch.io after a one-shot build and one requested sound-volume adjustment.
 
@@ -81,6 +83,8 @@ BLITAST Studio reports that Opus 5.5 created the game from brief instructions an
 
 ### Transport Ship Browser FPS
 
+[![Transport Ship Browser FPS — Preview from the creator](<https://cdn.magiccreator.ai/magiccreator/public/landing/claude-opus-5-5-demos/cf-transport-ship.webp>)](<https://github.com/riba2534/claude-opus-5-5-demo/tree/main/cf-transport-ship>)
+
 A playable browser FPS with a researched ship layout, bots, recoil, hit feedback, synthesized gun audio and touch support.
 
 **Creator:** riba2534 · **Tools / format:** Three.js, Browser FPS, Bots
@@ -90,6 +94,8 @@ riba2534 reports that Opus 5.5 researched and implemented the project from one p
 [Original source](<https://github.com/riba2534/claude-opus-5-5-demo/tree/main/cf-transport-ship>) · [Live demo](<https://claude-opus-5-5-cf-transport-ship.pages.dev>) · [Creator’s code](<https://github.com/riba2534/claude-opus-5-5-demo/tree/main/cf-transport-ship>) · [Visual gallery details](<https://magiccreator.ai/claude-opus-5-5-demos#cf-transport-ship>)
 
 ### QQ Speed Racing Game
+
+[![QQ Speed Racing Game — Preview from the creator](<https://cdn.magiccreator.ai/magiccreator/public/landing/claude-opus-5-5-demos/qq-speed-racing-game.webp>)](<https://github.com/riba2534/claude-opus-5-5-demo/tree/main/qq-speed>)
 
 A playable 3D racer with drifting, nitro, boost chaining and four tracks inspired by the original game's map styles.
 
@@ -107,7 +113,7 @@ Blender models, image-to-scene workflows and real-time 3D work. Tool contributio
 
 ### 5,112-Object Shinkansen
 
-[![5,112-Object Shinkansen — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2102506945357979648/img/yneHpUKqgWbR_SoN.jpg>)](<https://x.com/higgsfield_ai/status/2102507018372436264>)
+[![5,112-Object Shinkansen — Preview from the creator](<https://pbs.twimg.com/amplify_video_thumb/2102506945357979648/img/yneHpUKqgWbR_SoN.jpg>)](<https://x.com/higgsfield_ai/status/2102507018372436264>)
 
 A Blender bullet-train model with a detailed interior, including hundreds of individual seats.
 
@@ -121,7 +127,7 @@ Higgsfield reports that Claude Opus 5.5 built the Shinkansen through its tool wo
 
 ### Photo to Collapsing Building
 
-[![Photo to Collapsing Building — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2102862927502123008/img/XfP0T4KdJlTOfRB4.jpg>)](<https://x.com/higgsfield_ai/status/2102863017109291059>)
+[![Photo to Collapsing Building — Preview from the creator](<https://pbs.twimg.com/amplify_video_thumb/2102862927502123008/img/XfP0T4KdJlTOfRB4.jpg>)](<https://x.com/higgsfield_ai/status/2102863017109291059>)
 
 A building reconstructed in Blender from one photo and then animated in a structural-collapse simulation.
 
@@ -135,7 +141,7 @@ Higgsfield presents this as an Opus 5.5 and Higgsfield workflow. The source post
 
 ### Native Real-Time 3D Scene
 
-[![Native Real-Time 3D Scene — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2102679409769775105/img/b-thieTNBc7tWfN3.jpg>)](<https://x.com/wizardbrainz/status/2102680426573865160>)
+[![Native Real-Time 3D Scene — Preview from the creator](<https://pbs.twimg.com/amplify_video_thumb/2102679409769775105/img/b-thieTNBc7tWfN3.jpg>)](<https://x.com/wizardbrainz/status/2102680426573865160>)
 
 A real-time 3D scene generated from one text prompt in a custom native modeling application.
 
@@ -147,7 +153,7 @@ The creator reports a roughly one-hour, one-shot build without Unreal, Unity or 
 
 ### Charcoal Drawing as a 3D Scene
 
-[![Charcoal Drawing as a 3D Scene — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2102519117756641280/img/jM0OQzvoVxDxIqnW.jpg>)](<https://x.com/higgsfield_ai/status/2102519226099761608>)
+[![Charcoal Drawing as a 3D Scene — Preview from the creator](<https://pbs.twimg.com/amplify_video_thumb/2102519117756641280/img/jM0OQzvoVxDxIqnW.jpg>)](<https://x.com/higgsfield_ai/status/2102519226099761608>)
 
 A charcoal drawing reconstructed in Blender while retaining its rough texture as the camera moves through the scene.
 
@@ -167,6 +173,8 @@ Interactive HTML experiments, procedural worlds and browser visualizations made 
 
 ### 100 HTML Experiments
 
+[![100 HTML Experiments — Preview from the creator](<https://cdn.magiccreator.ai/magiccreator/public/landing/claude-opus-5-5-demos/one-hundred-html-experiments.webp>)](<https://x.com/MiaAI_lab/status/2102490829306634560>)
+
 A browsable set of 100 distinct HTML experiments, including games, visualizers, typography and interactive art.
 
 **Creator:** [Mia](<https://x.com/MiaAI_lab>) · **Tools / format:** HTML, Creative coding, Playable demos
@@ -177,7 +185,7 @@ Mia asked Claude Opus 5.5 for 100 visually distinct HTML files. The published ga
 
 ### Sakura River Valley Boat Scene
 
-[![Sakura River Valley Boat Scene — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2102760366745010177/img/8_z3VSBLv9sfV3C8.jpg>)](<https://x.com/MengTo/status/2102760783344189761>)
+[![Sakura River Valley Boat Scene — Preview from the creator](<https://pbs.twimg.com/amplify_video_thumb/2102760366745010177/img/8_z3VSBLv9sfV3C8.jpg>)](<https://x.com/MengTo/status/2102760783344189761>)
 
 A playable Three.js boat journey through Japanese scenery with dynamic weather, day-night lighting and reflective water.
 
@@ -189,7 +197,7 @@ Meng To attributes the scene to Opus 5.5 and highlights its water reflections, p
 
 ### Lemon Spiral Three.js Road Trip
 
-[![Lemon Spiral Three.js Road Trip — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2103003207203213312/img/T44iEyEgjVCFhZet.jpg>)](<https://x.com/chetanankola/status/2103008022369099992>)
+[![Lemon Spiral Three.js Road Trip — Preview from the creator](<https://pbs.twimg.com/amplify_video_thumb/2103003207203213312/img/T44iEyEgjVCFhZet.jpg>)](<https://x.com/chetanankola/status/2103008022369099992>)
 
 A stylized driving experience with a folding landscape, hand-drawn rendering, weather controls and generative music.
 
@@ -201,7 +209,7 @@ Chetan Ankola attributes this Three.js experience to Claude Opus 5.5. The post s
 
 ### Explorable Imaginary Solar System
 
-[![Explorable Imaginary Solar System — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2102681158093815808/img/MMvJMAztnLhoKZ_G.jpg>)](<https://x.com/Kappaemme1926/status/2102729710174196022>)
+[![Explorable Imaginary Solar System — Preview from the creator](<https://pbs.twimg.com/amplify_video_thumb/2102681158093815808/img/MMvJMAztnLhoKZ_G.jpg>)](<https://x.com/Kappaemme1926/status/2102729710174196022>)
 
 An interactive solar system with multiple fictional planets, built for a same-prompt comparison against GPT-6 Sol.
 
@@ -213,7 +221,7 @@ Kappaemme reports that Opus 5.5 produced a larger, more detailed solar system in
 
 ### Endless Sketchy Santorini
 
-[![Endless Sketchy Santorini — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2102465306145034240/img/z0M5ec9yHKHCvTRN.jpg>)](<https://x.com/thebuggeddev/status/2102466136118063134>)
+[![Endless Sketchy Santorini — Preview from the creator](<https://pbs.twimg.com/amplify_video_thumb/2102465306145034240/img/z0M5ec9yHKHCvTRN.jpg>)](<https://x.com/thebuggeddev/status/2102466136118063134>)
 
 An endless, hand-sketched 3D interpretation of Santorini presented as a navigable browser scene.
 
@@ -231,7 +239,7 @@ Films and motion pieces built through code, timelines and creative tools rather 
 
 ### What Do You Love? JavaScript Animation
 
-[![What Do You Love? JavaScript Animation — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2102437792425070592/img/H7fyRYmlzFr2osoV.jpg>)](<https://x.com/kevin_t_ngo/status/2102437977435893771>)
+[![What Do You Love? JavaScript Animation — Preview from the creator](<https://pbs.twimg.com/amplify_video_thumb/2102437792425070592/img/H7fyRYmlzFr2osoV.jpg>)](<https://x.com/kevin_t_ngo/status/2102437977435893771>)
 
 A hand-drawn story in which every frame, plus the music, was generated in JavaScript.
 
@@ -243,7 +251,7 @@ Kevin Ngo attributes the coded animation and its music to Claude Opus 5.5. The p
 
 ### A Cosmic Journey
 
-[![A Cosmic Journey — Preview from the creator’s post](<https://pbs.twimg.com/media/HS95zz_a8AA4PL4.jpg>)](<https://x.com/rege_dev/status/2103022926752854201>)
+[![A Cosmic Journey — Preview from the creator](<https://pbs.twimg.com/media/HS95zz_a8AA4PL4.jpg>)](<https://x.com/rege_dev/status/2103022926752854201>)
 
 A coded space film with scene timing, animation, sound effects and sound design assembled around narration.
 
@@ -255,7 +263,7 @@ The creator used Opus 5.5 inside CoAnimator, starting from a narration clip and 
 
 ### Western Civilization in Motion
 
-[![Western Civilization in Motion — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2103211525095702528/img/9hhkZEeK88qwJlMk.jpg>)](<https://x.com/IterIntellectus/status/2103212539895017864>)
+[![Western Civilization in Motion — Preview from the creator](<https://pbs.twimg.com/amplify_video_thumb/2103211525095702528/img/9hhkZEeK88qwJlMk.jpg>)](<https://x.com/IterIntellectus/status/2103212539895017864>)
 
 A two-minute visual history that moves through architecture, art, ideas and eras with diagrammatic coded animation.
 
@@ -267,7 +275,7 @@ Vittorio says he asked Claude to make the film about Western civilization. The p
 
 ### Claude-Pop: I'm Upping My P(Doom)
 
-[![Claude-Pop: I'm Upping My P(Doom) — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2097752433120202757/img/HONpteAeDv-Kg-ih.jpg>)](<https://x.com/slimer48484/status/2097752569212756134>)
+[![Claude-Pop: I'm Upping My P(Doom) — Preview from the creator](<https://pbs.twimg.com/amplify_video_thumb/2097752433120202757/img/HONpteAeDv-Kg-ih.jpg>)](<https://x.com/slimer48484/status/2097752569212756134>)
 
 A full-length 3D pop performance with a virtual band, staged lighting and an original AI-themed song.
 
@@ -279,7 +287,7 @@ The X post presents the finished 156.6-second music video. John Heibel's public 
 
 ### How Browsers Work in 40 Seconds
 
-[![How Browsers Work in 40 Seconds — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2102980713603887104/img/XgCaV0YvE_TaH9Oi.jpg>)](<https://x.com/addyosmani/status/2103009037164110327>)
+[![How Browsers Work in 40 Seconds — Preview from the creator](<https://pbs.twimg.com/amplify_video_thumb/2102980713603887104/img/XgCaV0YvE_TaH9Oi.jpg>)](<https://x.com/addyosmani/status/2103009037164110327>)
 
 A hand-drawn explainer that turns URL entry, fetching, parsing, layout and painting into a 40-second coded animation.
 
@@ -291,7 +299,7 @@ Addy Osmani says Claude Opus 5.5 drew every frame in JavaScript. The post contai
 
 ### Moon Festival Collage Animation
 
-[![Moon Festival Collage Animation — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2102985762996379648/img/4iq_gKH56QOv4xbs.jpg>)](<https://x.com/ring_hyacinth/status/2102986085328716066>)
+[![Moon Festival Collage Animation — Preview from the creator](<https://pbs.twimg.com/amplify_video_thumb/2102985762996379648/img/4iq_gKH56QOv4xbs.jpg>)](<https://x.com/ring_hyacinth/status/2102986085328716066>)
 
 A paper-collage short whose hand-drawn textures, frame-by-frame motion and synthesized sound effects were built with code.
 
@@ -305,7 +313,7 @@ Ring Hyacinth supplied the script and music, then used Opus 5.5 to draw the anim
 
 ### Battle of Dan-no-ura in 3D
 
-[![Battle of Dan-no-ura in 3D — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2102650776539791360/img/Sadc4NxaayPoPP2D.jpg>)](<https://x.com/tetumemo/status/2102652072252584046>)
+[![Battle of Dan-no-ura in 3D — Preview from the creator](<https://pbs.twimg.com/amplify_video_thumb/2102650776539791360/img/Sadc4NxaayPoPP2D.jpg>)](<https://x.com/tetumemo/status/2102652072252584046>)
 
 A television-special-style 3D reconstruction of the historic Battle of Dan-no-ura.
 
@@ -317,7 +325,7 @@ Tetsumemo credits Claude Opus 5.5 with creating the reconstruction. The original
 
 ### Coded Nature Film
 
-[![Coded Nature Film — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2102848479882039296/img/UA9wStXnN3J_tbSU.jpg>)](<https://x.com/LexnLin/status/2102923721140994419>)
+[![Coded Nature Film — Preview from the creator](<https://pbs.twimg.com/amplify_video_thumb/2102848479882039296/img/UA9wStXnN3J_tbSU.jpg>)](<https://x.com/LexnLin/status/2102923721140994419>)
 
 A cinematic nature sequence with animated environments and designed transitions, presented as coded art.
 
@@ -335,7 +343,7 @@ Music and audio-production workflows in which Claude worked through a creative a
 
 ### Phonk Groove in Logic Pro
 
-[![Phonk Groove in Logic Pro — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2102575673688887296/img/HXOERGPIltj0gTgM.jpg>)](<https://x.com/higgsfield_ai/status/2102575812444618805>)
+[![Phonk Groove in Logic Pro — Preview from the creator](<https://pbs.twimg.com/amplify_video_thumb/2102575673688887296/img/HXOERGPIltj0gTgM.jpg>)](<https://x.com/higgsfield_ai/status/2102575812444618805>)
 
 A phonk track assembled from scratch in Logic Pro through a Claude Opus 5.5 and Higgsfield workflow.
 
@@ -355,7 +363,7 @@ Additional concrete projects that do not fit the main categories.
 
 ### Pixel Art Model Remix
 
-[![Pixel Art Model Remix — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2103157346717339648/img/KZZWKhE6wA-mitiT.jpg>)](<https://x.com/peekcell/status/2103158450947527108>)
+[![Pixel Art Model Remix — Preview from the creator](<https://pbs.twimg.com/amplify_video_thumb/2103157346717339648/img/KZZWKhE6wA-mitiT.jpg>)](<https://x.com/peekcell/status/2103158450947527108>)
 
 A compact animated pixel-art building used to show how Gemini 4 Pro iterated on an earlier Opus 5.5 result.
 
