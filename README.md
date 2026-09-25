@@ -273,11 +273,9 @@ A full-length 3D pop performance with a virtual band, staged lighting and an ori
 
 **Creator:** [deckard](<https://x.com/slimer48484>) · **Tools / format:** 3D music video, Virtual band, Visual design
 
-NotinReality later quoted deckard's September 9 Claude-Pop post as an Opus 5.5 visual-design example. Because the original predates the public release and does not name the model version, the attribution rests on that later quote.
+The X post presents the finished 156.6-second music video. John Heibel's public repository identifies itself as the source and says both generations were made with Opus 5.5 in Claude Code; it includes nine coded chapters, the storyboard, animation guide and rendering pipeline.
 
-**Disclosure:** Opus 5.5 attribution comes from a later quote post by NotinReality.
-
-[Original post](<https://x.com/slimer48484/status/2097752569212756134>) · [Visual gallery details](<https://magiccreator.ai/claude-opus-5-5-demos#claude-pop-pdoom-music-video>)
+[Original post](<https://x.com/slimer48484/status/2097752569212756134>) · [Creator’s code](<https://github.com/JohnHeibel/PDoomVideo>) · [Visual gallery details](<https://magiccreator.ai/claude-opus-5-5-demos#claude-pop-pdoom-music-video>)
 
 ### How Browsers Work in 40 Seconds
 
