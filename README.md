@@ -11,7 +11,7 @@ A curated collection of Claude Opus 5.5 demos: playable games, interactive websi
 >
 > We add concrete projects with original sources and working links. Star this repository to save the collection and return for new examples.
 
-17 cases · 6 creator-supplied live links · Latest recorded review: 2026-09-25
+24 cases · 7 creator-supplied live links · Latest recorded review: 2026-09-25
 
 **[Explore the visual gallery on MagicCreator →](<https://magiccreator.ai/claude-opus-5-5-demos>)** — Browse previews, filter by category, and open creator-supplied demos or code.
 
@@ -33,10 +33,10 @@ The preview belongs to its creator and links to the original post; this reposito
 
 - [Claude Opus 5.5 Games & Playable Demos](#games) (5)
 - [Claude Opus 5.5 Blender & 3D Demos](#blender) (4)
-- [Claude Opus 5.5 Website & Web App Demos](#web) (3)
-- [Claude Opus 5.5 Coded Video & Animation](#video) (4)
+- [Claude Opus 5.5 Website & Web App Demos](#web) (5)
+- [Claude Opus 5.5 Coded Video & Animation](#video) (8)
 - [Claude Opus 5.5 Music Demos](#music) (1)
-- [Other Claude Opus 5.5 Demos](#others) (0)
+- [Other Claude Opus 5.5 Demos](#others) (1)
 - [Suggest a demo](#suggest-a-demo)
 
 <a id="games"></a>
@@ -175,6 +175,30 @@ Mia asked Claude Opus 5.5 for 100 visually distinct HTML files. The published ga
 
 [Original post](<https://x.com/MiaAI_lab/status/2102490829306634560>) · [Live demo](<https://miaai-lab.github.io/Claude-Opus-5.5-100-HTML-Files/>) · [Creator’s code](<https://github.com/MiaAI-lab/Claude-Opus-5.5-100-HTML-Files>) · [Visual gallery details](<https://magiccreator.ai/claude-opus-5-5-demos#one-hundred-html-experiments>)
 
+### Sakura River Valley Boat Scene
+
+[![Sakura River Valley Boat Scene — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2102760366745010177/img/8_z3VSBLv9sfV3C8.jpg>)](<https://x.com/MengTo/status/2102760783344189761>)
+
+A playable Three.js boat journey through Japanese scenery with dynamic weather, day-night lighting and reflective water.
+
+**Creator:** [Meng To](<https://x.com/MengTo>) · **Tools / format:** Three.js, Playable scene, Dynamic weather
+
+Meng To attributes the scene to Opus 5.5 and highlights its water reflections, physics, scenery, architecture and 3D characters. The live build is public; no source repository was found.
+
+[Original post](<https://x.com/MengTo/status/2102760783344189761>) · [Live demo](<https://valley.mengto.here.now>) · [Visual gallery details](<https://magiccreator.ai/claude-opus-5-5-demos#sakura-river-valley-boat-scene>)
+
+### Lemon Spiral Three.js Road Trip
+
+[![Lemon Spiral Three.js Road Trip — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2103003207203213312/img/T44iEyEgjVCFhZet.jpg>)](<https://x.com/chetanankola/status/2103008022369099992>)
+
+A stylized driving experience with a folding landscape, hand-drawn rendering, weather controls and generative music.
+
+**Creator:** [Chetan Ankola](<https://x.com/chetanankola>) · **Tools / format:** Three.js, Driving scene, Generative music
+
+Chetan Ankola attributes this Three.js experience to Claude Opus 5.5. The post shows the interactive-looking result in motion, but does not link a public build or source repository.
+
+[Original post](<https://x.com/chetanankola/status/2103008022369099992>) · [Visual gallery details](<https://magiccreator.ai/claude-opus-5-5-demos#lemon-spiral-threejs-road-trip>)
+
 ### Explorable Imaginary Solar System
 
 [![Explorable Imaginary Solar System — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2102681158093815808/img/MMvJMAztnLhoKZ_G.jpg>)](<https://x.com/Kappaemme1926/status/2102729710174196022>)
@@ -229,6 +253,58 @@ The creator used Opus 5.5 inside CoAnimator, starting from a narration clip and 
 
 [Original post](<https://x.com/rege_dev/status/2103022926752854201>) · [Live demo](<https://coanimator.com>) · [Visual gallery details](<https://magiccreator.ai/claude-opus-5-5-demos#cosmic-journey-motion-film>)
 
+### Western Civilization in Motion
+
+[![Western Civilization in Motion — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2103211525095702528/img/9hhkZEeK88qwJlMk.jpg>)](<https://x.com/IterIntellectus/status/2103212539895017864>)
+
+A two-minute visual history that moves through architecture, art, ideas and eras with diagrammatic coded animation.
+
+**Creator:** [vittorio](<https://x.com/IterIntellectus>) · **Tools / format:** Coded film, History, Motion graphics
+
+Vittorio says he asked Claude to make the film about Western civilization. The post presents the completed video without publishing a prompt, standalone player or source repository.
+
+[Original post](<https://x.com/IterIntellectus/status/2103212539895017864>) · [Visual gallery details](<https://magiccreator.ai/claude-opus-5-5-demos#western-civilization-coded-film>)
+
+### Claude-Pop: I'm Upping My P(Doom)
+
+[![Claude-Pop: I'm Upping My P(Doom) — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2097752433120202757/img/HONpteAeDv-Kg-ih.jpg>)](<https://x.com/slimer48484/status/2097752569212756134>)
+
+A full-length 3D pop performance with a virtual band, staged lighting and an original AI-themed song.
+
+**Creator:** [deckard](<https://x.com/slimer48484>) · **Tools / format:** 3D music video, Virtual band, Visual design
+
+NotinReality later quoted deckard's September 9 Claude-Pop post as an Opus 5.5 visual-design example. Because the original predates the public release and does not name the model version, the attribution rests on that later quote.
+
+**Disclosure:** Opus 5.5 attribution comes from a later quote post by NotinReality.
+
+[Original post](<https://x.com/slimer48484/status/2097752569212756134>) · [Visual gallery details](<https://magiccreator.ai/claude-opus-5-5-demos#claude-pop-pdoom-music-video>)
+
+### How Browsers Work in 40 Seconds
+
+[![How Browsers Work in 40 Seconds — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2102980713603887104/img/XgCaV0YvE_TaH9Oi.jpg>)](<https://x.com/addyosmani/status/2103009037164110327>)
+
+A hand-drawn explainer that turns URL entry, fetching, parsing, layout and painting into a 40-second coded animation.
+
+**Creator:** [Addy Osmani](<https://x.com/addyosmani>) · **Tools / format:** JavaScript animation, Browser internals, Explainer
+
+Addy Osmani says Claude Opus 5.5 drew every frame in JavaScript. The post contains the finished animation; it does not link the source code or a standalone player.
+
+[Original post](<https://x.com/addyosmani/status/2103009037164110327>) · [Visual gallery details](<https://magiccreator.ai/claude-opus-5-5-demos#how-browsers-work-animation>)
+
+### Moon Festival Collage Animation
+
+[![Moon Festival Collage Animation — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2102985762996379648/img/4iq_gKH56QOv4xbs.jpg>)](<https://x.com/ring_hyacinth/status/2102986085328716066>)
+
+A paper-collage short whose hand-drawn textures, frame-by-frame motion and synthesized sound effects were built with code.
+
+**Creator:** [Ring Hyacinth](<https://x.com/ring_hyacinth>) · **Tools / format:** p5.js, Collage animation, Procedural audio
+
+Ring Hyacinth supplied the script and music, then used Opus 5.5 to draw the animation frame by frame with JavaScript, p5.js and p5.brush and synthesize sound effects in Node.js. Nano Banana Pro supplied the background drafts and paper textures.
+
+**Disclosure:** Background drafts and paper textures were generated with Nano Banana Pro.
+
+[Original post](<https://x.com/ring_hyacinth/status/2102986085328716066>) · [Visual gallery details](<https://magiccreator.ai/claude-opus-5-5-demos#moon-festival-collage-animation>)
+
 ### Battle of Dan-no-ura in 3D
 
 [![Battle of Dan-no-ura in 3D — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2102650776539791360/img/Sadc4NxaayPoPP2D.jpg>)](<https://x.com/tetumemo/status/2102652072252584046>)
@@ -278,6 +354,20 @@ Higgsfield attributes the Logic Pro workflow to Claude Opus 5.5. The original po
 ## Other Claude Opus 5.5 Demos
 
 Additional concrete projects that do not fit the main categories.
+
+### Pixel Art Model Remix
+
+[![Pixel Art Model Remix — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2103157346717339648/img/KZZWKhE6wA-mitiT.jpg>)](<https://x.com/peekcell/status/2103158450947527108>)
+
+A compact animated pixel-art building used to show how Gemini 4 Pro iterated on an earlier Opus 5.5 result.
+
+**Creator:** [Peekcell](<https://x.com/peekcell>) · **Tools / format:** Pixel art, Model comparison, Animation
+
+Peekcell presents this as a Gemini 4 Pro iteration on work first produced with Opus 5.5. It is included as a cross-model refinement example, not as a pure Opus 5.5 output.
+
+**Disclosure:** The displayed result is a Gemini 4 Pro iteration on an Opus 5.5 output.
+
+[Original post](<https://x.com/peekcell/status/2103158450947527108>) · [Visual gallery details](<https://magiccreator.ai/claude-opus-5-5-demos#pixel-art-model-remix>)
 
 <a id="suggest-a-demo"></a>
 
